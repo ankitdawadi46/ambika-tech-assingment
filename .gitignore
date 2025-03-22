@@ -7,11 +7,6 @@ venv/
 .env*/
 *.env
 
-# Ignore IDE-specific files
-.idea/
-.vscode/
-*.swp
-*.swo
 
 # Ignore Python compiled files
 __pycache__/
